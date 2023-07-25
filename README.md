@@ -30,9 +30,12 @@ python3 -m venv venv
 
 - Enable the virtual environment in windows
 ```
-cd venv\Scripts\activate
+cd venv\Scripts
 ```
-
+```
+.\activate
+```
+- Return to Virtual-gathering folder using cd..
 - Install the python dependencies on the virtual environment
 ```
 pip install -r requirements.txt
@@ -41,3 +44,11 @@ pip install -r requirements.txt
 - Start the web application
 ```
 python app.py
+```
+- Deactivate the virtual environment
+```
+cd venv\Scripts
+```
+```
+deactivate
+```
