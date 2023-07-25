@@ -7,7 +7,7 @@ In this people can move over canvas and can chat with those whom they want to.
 First, start by cloning the repository:
 
 ```
-https://github.com/ManavdhiMan003/Virtual-gathering.git
+https://github.com/parasthe13/Virtual-Gathering.git
 ```
 
 We recommend to use `virtualenv` for development:
